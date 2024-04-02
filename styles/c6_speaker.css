@@ -68,9 +68,6 @@ main {
 	color: white;
 	font-weight: bold;
 }
-#nav_menu a.current {
-	color: yellow;
-}
 #nav_menu ul ul {
 	display: none;
 	position: absolute;
